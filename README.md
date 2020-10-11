@@ -1,4 +1,7 @@
 # The Guessing Game 
+
+<img src="https://img.shields.io/badge/python-100.0%25-green"> 
+
 ![](/pythonHomework/images/gamePicture.png)
 
 ## Game Description 
